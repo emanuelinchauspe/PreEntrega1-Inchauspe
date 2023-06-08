@@ -1,17 +1,3 @@
-// let respuesta;
-
-// do {
-
-// alert("Vamos a aprender las tablas!")
-
-// let ingresarNumero = parseInt(prompt("¿De qué numéro te gustaría aprender?"));
-// for (let i = 1; i <= 10; i++) {
-//     let resultado = ingresarNumero * i ;
-//     alert(ingresarNumero +" X "+ i +" = "+ resultado);
-// }
-// var respuesta = prompt("¿Deseas volver a comenzar? (responde 'sí' o 'no')");
-// } while (respuesta.toLowerCase() === "sí");
-
 let respuesta;
 do {
   alert("Vamos a aprender las tablas!");
